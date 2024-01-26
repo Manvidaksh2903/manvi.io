@@ -1,0 +1,30 @@
+body{
+    background-color: #548687;
+    text-align: center;
+}
+.container{
+    height:90vh;
+}
+.box wraper{
+height:900px;
+width:900px;
+display:flex;
+flex-wrap: wrap;
+gap:1.5vmin;
+border-style:dashed;
+border-color: black;
+align-items: center;
+
+}
+.box{
+  height:500px;
+  width:500px;
+  border-style: dotted;
+  border-color: aqua;
+  border-width: 5px;
+  align-items: center;
+  margin:2px;
+  padding: 5px;
+  gap:2vmin;
+}
+
